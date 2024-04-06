@@ -114,4 +114,4 @@ Publications
 </div>
 
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=hyJMLwcX8W-gbet2EkcCZ7mBXPdXLsxCztYcM4P1GFI"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_vRR3FmDwVIvtBQN_6bKVbHop3k2KYNfbwrXqK5rBgQ&cl=ffffff&w=a"></script>

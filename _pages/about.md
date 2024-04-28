@@ -126,4 +126,4 @@ Publications
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_vRR3FmDwVIvtBQN_6bKVbHop3k2KYNfbwrXqK5rBgQ&cl=ffffff&w=a"></script>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=3bOF5TIhBSZFWOTwkA1sZb5l1TG4XKxywQtYO_JW0rw&ct=0c0c0c&co=83bee8'></script>
+<!--<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=3bOF5TIhBSZFWOTwkA1sZb5l1TG4XKxywQtYO_JW0rw&ct=0c0c0c&co=83bee8'></script>-->

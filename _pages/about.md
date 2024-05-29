@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interests span efficient deep learning, machine learning, and computer vision. Specifically, I am interested in model compression for computer vision models (CNN, ViT), knowledge distillation to both models and datasets, and general CV tasks (foundational model training and downstream applications).
+I am the final year PhD student of XiDian University supervised by [Prof.Yunsong Li](https://web.xidian.edu.cn/ysli/) and [Prof. Weiying Xie](https://web.xidian.edu.cn/wyxie/). Currently, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by [Prof.Joey Tianyi Zhou](https://joeyzhouty.github.io/index.html) and [Dr.Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en). My research interests span efficient deep learning, machine learning, and computer vision. Specifically, I am interested in model compression for computer vision models (CNN, ViT), knowledge distillation to both models and datasets, and general CV tasks (foundational model training and downstream applications).
 
 
 News!

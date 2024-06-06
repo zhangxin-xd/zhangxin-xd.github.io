@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### 📝Profile
+### 👩🏻‍💻Profile
 
 - <span style="font-family:Papyrus; font-size:1em;"> I am a final-year PhD student of XiDian University supervised by [Prof. Yunsong Li](https://web.xidian.edu.cn/ysli/) and [Prof. Weiying Xie](https://web.xidian.edu.cn/wyxie/). Currently, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/index.html) and [Dr. Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en). 
 
@@ -19,7 +19,7 @@ News!
 
 [2023.10] Win National Scholarship for PhD Student
 
-Publications
+### 📝Publications
 ======
 <style>
   .publication-container {

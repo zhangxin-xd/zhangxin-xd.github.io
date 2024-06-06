@@ -128,6 +128,7 @@ redirect_from:
 </div>
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_vRR3FmDwVIvtBQN_6bKVbHop3k2KYNfbwrXqK5rBgQ&cl=ffffff&w=a"></script>
+<div id="map-container" style="width: 300px; height: 200px;">
+    <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=828282&w=a&t=n&d=_vRR3FmDwVIvtBQN_6bKVbHop3k2KYNfbwrXqK5rBgQ&co=e6f4f1'></script>
+</div>
 
-<!--<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=3bOF5TIhBSZFWOTwkA1sZb5l1TG4XKxywQtYO_JW0rw&ct=0c0c0c&co=83bee8'></script>-->

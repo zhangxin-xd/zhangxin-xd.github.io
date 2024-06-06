@@ -24,7 +24,7 @@ redirect_from:
 <style>
   .publication-container {
     clear: both;
-    margin-bottom: 3em;
+    margin-bottom: 1em;
   }
 
   .publication-container img {

@@ -29,7 +29,7 @@ redirect_from:
   }
 
   .publication-container img {
-    float: left;
+    float: justify;
     margin-right: 10px;
     margin-bottom: 10px;
     max-width: 150px;

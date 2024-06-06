@@ -14,14 +14,13 @@ redirect_from:
 - <span style="font-family:Arial; font-size:0.8em;"> My research interests span efficient deep learning, machine learning, and computer vision. Specifically, I am interested in model compression for computer vision models (CNN, ViT), knowledge distillation to both models and datasets, and general CV tasks (foundational model training and downstream applications).
 
 ### ⚡️News!
-======
 
-[2024.2] One paper is accepted by CVPR! [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rJMMViQAAAAJ&citation_for_view=rJMMViQAAAAJ:Tyk-4Ss8FVUC) [Codes](https://github.com/zhangxin-xd/Dataset-Pruning-TDDS)
+- <span style="font-family:Arial; font-size:0.8em;"> [2024.2] One paper is accepted by CVPR! [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rJMMViQAAAAJ&citation_for_view=rJMMViQAAAAJ:Tyk-4Ss8FVUC) [Codes](https://github.com/zhangxin-xd/Dataset-Pruning-TDDS)
 
-[2023.10] Win National Scholarship for PhD Student
+- <span style="font-family:Arial; font-size:0.8em;"> [2023.10] Win National Scholarship for PhD Student
 
 ### 📝Publications
-======
+
 <style>
   .publication-container {
     clear: both;

@@ -9,7 +9,7 @@ redirect_from:
 
 ### 👩🏻‍💻Profile
 
-- <span style="font-family:Arial; font-size:0.8em;"> I am a final-year PhD student of XiDian University supervised by [Prof. Yunsong Li](https://web.xidian.edu.cn/ysli/) and [Prof. Weiying Xie](https://web.xidian.edu.cn/wyxie/). Currently, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/index.html) and [Dr. Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en). 
+- <span style="font-family:Arial; font-size:0.8em;"> I am a final-year PhD student of XiDian University supervised by <a href="https://web.xidian.edu.cn/ysli/" style="color:#00308B;">Prof. Yunsong Li</a> and <a href="https://web.xidian.edu.cn/wyxie/" style="color:#00308B;">Prof. Weiying Xie</a>. Currently, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by <a href="https://joeyzhouty.github.io/index.html" style="color:#00308B;">Prof. Joey Tianyi Zhou</a> and <a href="https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en" style="color:#00308B;">Dr. Jiawei Du</a>.
 
 - <span style="font-family:Arial; font-size:0.8em;"> My research interests span efficient deep learning, machine learning, and computer vision. Specifically, I am interested in model compression for computer vision models (CNN, ViT), knowledge distillation to both models and datasets, and general CV tasks (foundational model training and downstream applications).
 

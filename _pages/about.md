@@ -25,6 +25,7 @@ redirect_from:
   .publication-container {
     clear: both;
     margin-bottom: 2em;
+    font-size:0.8em
   }
 
   .publication-container img {
@@ -38,7 +39,7 @@ redirect_from:
 
 <div class="publication-container">
   <img src="./images/TDDS.png" alt="Publication Image">
-  <span font-size:0.8em">
+  
   <div>
     <span style="color: #96054d; font-weight: bold; font-size:0.8em">[CVPR 2024]</span> Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning. <br>
     <span font-weight: bold; font-size:0.8em"> <strong style="color:#008B8B;">Xin Zhang</strong>, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou. </span> 

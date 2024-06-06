@@ -41,8 +41,8 @@ redirect_from:
   <img src="./images/TDDS.png" alt="Publication Image">
   
   <div>
-    <span style="color: #96054d; font-weight: bold">[CVPR 2024]</span> Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning. <br>
-    <strong style="color:#FF7861;">Xin Zhang</strong>, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou. </span> 
+    <span style="color: #00308B; font-weight: bold">[CVPR 2024]</span> Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning. <br>
+    <strong style="color:#FF7861;">Xin Zhang</strong>, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou.
   </div>
 </div>
 
@@ -50,7 +50,7 @@ redirect_from:
   <img src="./images/BPL.png" alt="Publication Image">
   
   <div>
-    <span style="color: #96054d; font-weight: bold">[IEEE TNNLS 2023]</span> Block-Wise Partner Learning for Model Compression. <br>
+    <span style="color: #00308B; font-weight: bold">[IEEE TNNLS 2023]</span> Block-Wise Partner Learning for Model Compression. <br>
     <strong style="color:#FF7861;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Jie Lei, Kai Jiang, Leyuan Fang, Qian Du. 
   </div>
 </div>
@@ -59,7 +59,7 @@ redirect_from:
   <img src="./images/REAF.png" alt="Publication Image">
   
   <div>
-    <span style="color: #96054d; font-weight: bold">[IEEE TIP 2023]</span> Reaf: Remembering enhancement and entropy-based asymptotic forgetting for filter pruning.<br>
+    <span style="color: #00308B; font-weight: bold">[IEEE TIP 2023]</span> Reaf: Remembering enhancement and entropy-based asymptotic forgetting for filter pruning.<br>
     <strong style="color:#FF7861;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Kai Jiang, Leyuan Fang. 
   </div>
 </div>
@@ -68,7 +68,7 @@ redirect_from:
   <img src="./images/MDMN.png" alt="Publication Image">
   
   <div>
-    <span style="color: #96054d; font-weight: bold">[IEEE TGRS 2023]</span> A Model-Driven Deep Mixture Network for Robust Hyperspectral Anomaly Detection. <br>
+    <span style="color: #00308B; font-weight: bold">[IEEE TGRS 2023]</span> A Model-Driven Deep Mixture Network for Robust Hyperspectral Anomaly Detection. <br>
     Yunsong Li, Kai Jiang, Weiying Xie, Jie Lei, <strong style="color:#FF7861;">Xin Zhang</strong>, Qian Du.
   </div>
 </div>
@@ -77,7 +77,7 @@ redirect_from:
   <img src="./images/RGAN.jpg" alt="Publication Image">
   
   <div>
-    <span style="color: #96054d; font-weight: bold">[IEEE TGRS 2022]</span> Rank-aware generative adversarial network for hyperspectral band selection. <br>
+    <span style="color: #00308B; font-weight: bold">[IEEE TGRS 2022]</span> Rank-aware generative adversarial network for hyperspectral band selection. <br>
     <strong style="color:#FF7861;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Jie Lei, Qian Du, Geng Yang.
   </div>
 </div>
@@ -86,7 +86,7 @@ redirect_from:
   <img src="./images/CCSG.png" alt="Publication Image">
   
   <div>
-    <span style="color: #96054d; font-weight: bold">[IEEE TGRS 2023]</span> Co-compression via superior gene for remote sensing scene classification.<br>
+    <span style="color: #00308B; font-weight: bold">[IEEE TGRS 2023]</span> Co-compression via superior gene for remote sensing scene classification.<br>
     Weiying Xie, Xiaoyi Fan, <strong style="color:#FF7861;">Xin Zhang</strong>, Yunsong Li, Min Sheng, Leyuan Fang.
   </div>
 </div>
@@ -95,7 +95,7 @@ redirect_from:
   <img src="./images/OSCAR.jpg" alt="Publication Image">
   
   <div>
-    <span style="color: #96054d; font-weight: bold">[IEEE TGRS 2022]</span> Algorithm/hardware codesign for real-time on-satellite CNN-based ship detection in SAR imagery. <br>
+    <span style="color: #00308B; font-weight: bold">[IEEE TGRS 2022]</span> Algorithm/hardware codesign for real-time on-satellite CNN-based ship detection in SAR imagery. <br>
     Geng Yang, Jie Lei, Weiying Xie, Zhenman Fang, Yunsong Li, Jiaxuan Wang, <strong style="color:#FF7861;">Xin Zhang</strong>.
   </div>
 </div>
@@ -104,7 +104,7 @@ redirect_from:
   <img src="./images/LRMF.jpg" alt="Publication Image">
   
   <div>
-    <span style="color: #96054d; font-weight: bold">[IEEE TC 2021]</span> Filter pruning via learned representation median in the frequency domain. <br>
+    <span style="color: #00308B; font-weight: bold">[IEEE TC 2021]</span> Filter pruning via learned representation median in the frequency domain. <br>
     <strong style="color:#FF7861;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Jie Lei, Qian Du.
   </div>
 </div>
@@ -113,7 +113,7 @@ redirect_from:
   <img src="./images/WSLRR.png" alt="Publication Image">
   
   <div>
-    <span style="color: #96054d; font-weight: bold">[IEEE TC 2021]</span> Weakly supervised low-rank representation for hyperspectral anomaly detection. <br>
+    <span style="color: #00308B; font-weight: bold">[IEEE TC 2021]</span> Weakly supervised low-rank representation for hyperspectral anomaly detection. <br>
     Weiying Xie, <strong style="color:#FF7861;">Xin Zhang</strong>, Yunsong Li, Jie Lei, Jiaojiao Li, Qian Du.
   </div>
 </div>
@@ -122,7 +122,7 @@ redirect_from:
   <img src="./images/DBLP.jpg" alt="Publication Image">
   
   <div>
-    <span style="color: #96054d; font-weight: bold">[IEEE Jstar 2020]</span> Background learning based on target suppression constraint for hyperspectral target detection. <br>
+    <span style="color: #00308B; font-weight: bold">[IEEE Jstar 2020]</span> Background learning based on target suppression constraint for hyperspectral target detection. <br>
     Weiying Xie, <strong style="color:#FF7861;">Xin Zhang</strong>, Yunsong Li, Keyan Wang, Qian Du.
   </div>
 </div>

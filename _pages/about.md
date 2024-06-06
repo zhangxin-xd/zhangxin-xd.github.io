@@ -15,7 +15,7 @@ redirect_from:
 
 ### ⚡️News!
 
-- <span style="font-family:Arial; font-size:0.8em;"> [2024.2] One paper is accepted by CVPR! [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rJMMViQAAAAJ&citation_for_view=rJMMViQAAAAJ:Tyk-4Ss8FVUC) [Codes](https://github.com/zhangxin-xd/Dataset-Pruning-TDDS)
+- <span style="font-family:Arial; font-size:0.8em;"> [2024.2] One paper is accepted by CVPR! <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rJMMViQAAAAJ&citation_for_view=rJMMViQAAAAJ:Tyk-4Ss8FVUC" style="color:#00308B;">Paper</a> <a href="https://github.com/zhangxin-xd/Dataset-Pruning-TDDS" style="color:#00308B;">Codes</a></span>
 
 - <span style="font-family:Arial; font-size:0.8em;"> [2023.10] Win National Scholarship for PhD Student
 

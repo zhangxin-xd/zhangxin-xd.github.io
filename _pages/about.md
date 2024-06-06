@@ -128,7 +128,7 @@ redirect_from:
 </div>
 
 
-<div id="map-container" style="width: 300px; height: 200px;">
+<div id="map-container" style="width: 600px; height: 400px;">
     <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=828282&w=a&t=n&d=_vRR3FmDwVIvtBQN_6bKVbHop3k2KYNfbwrXqK5rBgQ&co=e6f4f1'></script>
 </div>
 

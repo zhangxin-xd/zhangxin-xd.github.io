@@ -23,6 +23,7 @@ redirect_from:
 
 ### 📝Publications
 
+For the full list, please refer to my Google Scholar page: <a href="https://scholar.google.com/citations?user=rJMMViQAAAAJ&hl=zh-CN&oi=ao" style="color:#00308B;">Google Scholar</a>
 <style>
   .publication-container {
     clear: both;

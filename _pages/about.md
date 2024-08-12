@@ -14,13 +14,12 @@ redirect_from:
 - <span style="font-family:Arial; font-size:0.8em;"> My research interests span efficient deep learning, machine learning, and computer vision. Specifically, I am interested in model compression for computer vision models (CNN, ViT), knowledge distillation to both models and datasets, and general CV tasks (foundational model training and downstream applications).
 
 ### ⚡️News!
-- <span style="font-family:Arial; font-size:0.8em;"> [2024.7] One paper is accepted by IEEE TCSVT!
-
-- <span style="font-family:Arial; font-size:0.8em;"> [2024.7] One paper is accepted by ACMM (oral)! <a href="https://arxiv.org/abs/2406.05677" style="color:#00308B;">Paper
-
-- <span style="font-family:Arial; font-size:0.8em;"> [2024.2] One paper is accepted by CVPR! <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rJMMViQAAAAJ&citation_for_view=rJMMViQAAAAJ:Tyk-4Ss8FVUC" style="color:#00308B;">Paper</a> <a href="https://github.com/zhangxin-xd/Dataset-Pruning-TDDS" style="color:#00308B;">Codes</a></span>
-
-- <span style="font-family:Arial; font-size:0.8em;"> [2023.10] Win National Scholarship for PhD Student
+<span style="font-family:Arial; font-size:0.8em;">
+  [2024.7] One paper is accepted by IEEE TCSVT!<br>
+  [2024.7] One paper is accepted by ACMM (oral)! <a href="https://arxiv.org/abs/2406.05677" style="color:#00308B;">Paper</a><br>
+  [2024.2] One paper is accepted by CVPR! <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rJMMViQAAAAJ&citation_for_view=rJMMViQAAAAJ:Tyk-4Ss8FVUC" style="color:#00308B;">Paper</a> <a href="https://github.com/zhangxin-xd/Dataset-Pruning-TDDS" style="color:#00308B;">Codes</a><br>
+  [2023.10] Win National Scholarship for PhD Student!
+</span>
 
 ### 📝Publications
 

@@ -15,6 +15,7 @@ redirect_from:
 
 ### ⚡️News!
 <span style="font-family:Arial; font-size:0.8em;">
+  [2024.8] Our work "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator" is posted online: https://arxiv.org/abs/2408.06927 <br>
   [2024.7] One paper is accepted by IEEE TCSVT!<br>
   [2024.7] One paper is accepted by ACMM (oral)! <a href="https://arxiv.org/abs/2406.05677" style="color:#00308B;">Paper</a><br>
   [2024.2] One paper is accepted by CVPR! <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rJMMViQAAAAJ&citation_for_view=rJMMViQAAAAJ:Tyk-4Ss8FVUC" style="color:#00308B;">Paper</a> <a href="https://github.com/zhangxin-xd/Dataset-Pruning-TDDS" style="color:#00308B;">Codes</a><br>

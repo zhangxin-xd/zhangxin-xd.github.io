@@ -15,7 +15,7 @@ redirect_from:
 
 ### ⚡️News!
 <span style="font-family:Arial; font-size:0.8em;">
-  [2024.9] Our work "**Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment**" is accepted by NeurIPS (spotlight)! <br>
+  [2024.9] Our work "**Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment**" is accepted by NeurIPS (spotlight)! <a href="https://arxiv.org/abs/2409.17612" style="color:#00308B;">Paper</a><br>
   [2024.8] Our work "**Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator**" is posted online! <a href="https://arxiv.org/abs/2408.06927" style="color:#00308B;">Paper</a><br>
   [2024.7] Our work "**Markov-PQ: Joint Pruning-Quantization via Learnable Markov Chain**" is accepted by IEEE TCSVT! <a href="https://ieeexplore.ieee.org/document/10620340" style="color:#00308B;">Paper</a><br>
   [2024.7] Our work "**Evolution-aware VAriance (EVA) Coreset Selection for Medical Image Classification**" is accepted by ACMM (oral)! <a href="https://arxiv.org/abs/2406.05677" style="color:#00308B;">Paper</a><br>

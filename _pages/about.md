@@ -19,6 +19,7 @@ redirect_from:
 ### ⚡️News!
 <span style="font-family:Arial; font-size:0.8em;">
   [2025.01] Our work "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator" is accepted by ICLR! See you in 🇸🇬 <a href="https://arxiv.org/abs/2408.06927" style="color:#00308B;">Paper</a><br>
+  [2024.12] Successfully defended my dissertation and obtained my Ph.D. degree! 🎓 <br>
   [2024.11] Win National Scholarship for PhD Student again! <br>
   [2024.10] Our dataset pruning work published on ACMM has been nominated for best paper awards!<br>
   [2024.9] Our work "Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment" is accepted by **NeurIPS (spotlight)**! <a href="https://arxiv.org/abs/2409.17612" style="color:#00308B;">Paper</a><br>

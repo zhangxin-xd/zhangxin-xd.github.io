@@ -9,7 +9,12 @@ redirect_from:
 
 ### 👩🏻‍💻Profile
 
-- <span style="font-family:Arial; font-size:0.8em;"> I am a final-year PhD student of XiDian University supervised by <a href="https://web.xidian.edu.cn/ysli/" style="color:#00308B;">Prof. Yunsong Li</a> and <a href="https://web.xidian.edu.cn/wyxie/" style="color:#00308B;">Prof. Weiying Xie</a>. I was a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by <a href="https://joeyzhouty.github.io/index.html" style="color:#00308B;">Prof. Joey Tianyi Zhou</a> and <a href="https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en" style="color:#00308B;">Dr. Jiawei Du</a>. In August, I officially start my research work as a Scientist at CFAR, A\*star. I’m excited to start my first job! 🥳 Looking forward to learning more from working with outstanding people!
+- <span style="font-family:Arial; font-size:0.8em;"> 
+I am currently a research scientist at CFAR, A*STAR. Prior to that, I was a visiting student at A*STAR, working with [Prof. Joey Tianyi Zhou](https://joeyzhouty.github.io/index.html) and [Dr. Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en).
+
+I received my PhD degree in December 2024 and my bachelor’s degree in 2019 from Xidian University, where I was supervised by [Prof. Yunsong Li](https://web.xidian.edu.cn/ysli/) and [Prof. Weiying Xie](https://web.xidian.edu.cn/wyxie/).
+
+My research interests lie in machine learning and computer vision, with a focus on data-centric efficiency, generative AI, and deepfake generation & detection. 
 
 - <span style="font-family:Arial; font-size:0.8em;"> Currently, my research interests focus on data-centric efficiency, generative AI, and deepfake generation and detection.
 

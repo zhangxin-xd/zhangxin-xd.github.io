@@ -138,8 +138,6 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   </div>
 </div>
 
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=_vRR3FmDwVIvtBQN_6bKVbHop3k2KYNfbwrXqK5rBgQ'></script>
 
-<div id="map-container" style="width: 600px; height: 400px;">
-    <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=828282&w=a&t=n&d=_vRR3FmDwVIvtBQN_6bKVbHop3k2KYNfbwrXqK5rBgQ&co=e6f4f1'></script>
-</div>
 

@@ -34,7 +34,9 @@ Sincere thanks to my collaborators and mentors for their continued support and g
 
 For the full list, please refer to my Google Scholar page: <a href="https://scholar.google.com/citations?user=rJMMViQAAAAJ&hl=zh-CN&oi=ao" style="color:#00308B;">Google Scholar</a>
 
-- Data-centric Efficiency
+<hr style="border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
+
+**Data-centric Efficiency**
 
 <style>
   .publication-container {

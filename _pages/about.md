@@ -16,18 +16,18 @@ My research interests lie in machine learning and computer vision, with a focus 
 
 ### ⚡️News!
 <span style="font-family:Arial; font-size:0.8em;">
-📌 <span style="color:#6A0DAD;"><strong>[2025.03]</strong></span> Honored to receive the **2024 A*STAR Career Development Fund (CDF)** award as PI.  
+📌 <span style="color:#4B0082;"><strong>[2025.03]</strong></span> Honored to receive the **2024 A*STAR Career Development Fund (CDF)** award as PI.  
 Sincere thanks to my collaborators and mentors for their continued support and guidance.<br>
-📌 <span style="color:#6A0DAD;"><strong>[2025.01]</strong></span> Our work "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator" is accepted by ICLR! See you in 🇸🇬 <a href="https://arxiv.org/abs/2408.06927" style="color:#00308B;">Paper</a>  <a href="https://github.com/zhangxin-xd/UFC" style="color:#00308B;">Code</a><br>
-📌 <span style="color:#6A0DAD;"><strong>[2024.12]</strong></span> Successfully defended my dissertation and obtained my Ph.D. degree! 🎓 <br>
-📌 <span style="color:#6A0DAD;"><strong>[2024.11]</strong></span> Win National Scholarship for PhD Student again! <br>
-📌 <span style="color:#6A0DAD;"><strong>[2024.10]</strong></span> Our dataset pruning work published on ACMM has been nominated for Best Paper Award!<br>
-📌 <span style="color:#6A0DAD;"><strong>[2024.9]</strong></span> Our work "Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment" is accepted by **NeurIPS (spotlight)**! <a href="https://arxiv.org/abs/2409.17612" style="color:#00308B;">Paper</a><br>
-📌 <span style="color:#6A0DAD;"><strong>[2024.8]</strong></span> Our work "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator" is posted online! <a href="https://arxiv.org/abs/2408.06927" style="color:#00308B;">Paper</a><br>
-📌 <span style="color:#6A0DAD;"><strong>[2024.7]</strong></span> Our work "Markov-PQ: Joint Pruning-Quantization via Learnable Markov Chain" is accepted by **IEEE TCSVT**! <a href="https://ieeexplore.ieee.org/document/10620340" style="color:#00308B;">Paper</a><br>
-📌 <span style="color:#6A0DAD;"><strong>[2024.7]</strong></span> Our work "Evolution-aware VAriance (EVA) Coreset Selection for Medical Image Classification" is accepted by **ACMM (oral, best paper nomination)**! <a href="https://arxiv.org/abs/2406.05677" style="color:#00308B;">Paper</a><br>
-📌 <span style="color:#6A0DAD;"><strong>[2024.2]</strong></span> Our work "Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning" is accepted by **CVPR**! See you in 🇺🇸 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rJMMViQAAAAJ&citation_for_view=rJMMViQAAAAJ:Tyk-4Ss8FVUC" style="color:#00308B;">Paper</a> <a href="https://github.com/zhangxin-xd/Dataset-Pruning-TDDS" style="color:#00308B;">Codes</a><br>
-📌 <span style="color:#6A0DAD;"><strong>[2023.10]</strong></span>  Win National Scholarship for PhD Student!
+📌 <span style="color:#4B0082;"><strong>[2025.01]</strong></span> Our work "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator" is accepted by ICLR! See you in 🇸🇬 <a href="https://arxiv.org/abs/2408.06927" style="color:#00308B;">Paper</a>  <a href="https://github.com/zhangxin-xd/UFC" style="color:#00308B;">Code</a><br>
+📌 <span style="color:#4B0082;"><strong>[2024.12]</strong></span> Successfully defended my dissertation and obtained my Ph.D. degree! 🎓 <br>
+📌 <span style="color:#4B0082;"><strong>[2024.11]</strong></span> Win National Scholarship for PhD Student again! <br>
+📌 <span style="color:#4B0082;"><strong>[2024.10]</strong></span> Our dataset pruning work published on ACMM has been nominated for Best Paper Award!<br>
+📌 <span style="color:#4B0082;"><strong>[2024.9]</strong></span> Our work "Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment" is accepted by **NeurIPS (spotlight)**! <a href="https://arxiv.org/abs/2409.17612" style="color:#00308B;">Paper</a><br>
+📌 <span style="color:#4B0082;"><strong>[2024.8]</strong></span> Our work "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator" is posted online! <a href="https://arxiv.org/abs/2408.06927" style="color:#00308B;">Paper</a><br>
+📌 <span style="color:#4B0082;"><strong>[2024.7]</strong></span> Our work "Markov-PQ: Joint Pruning-Quantization via Learnable Markov Chain" is accepted by **IEEE TCSVT**! <a href="https://ieeexplore.ieee.org/document/10620340" style="color:#00308B;">Paper</a><br>
+📌 <span style="color:#4B0082;"><strong>[2024.7]</strong></span> Our work "Evolution-aware VAriance (EVA) Coreset Selection for Medical Image Classification" is accepted by **ACMM (oral, best paper nomination)**! <a href="https://arxiv.org/abs/2406.05677" style="color:#00308B;">Paper</a><br>
+📌 <span style="color:#4B0082;"><strong>[2024.2]</strong></span> Our work "Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning" is accepted by **CVPR**! See you in 🇺🇸 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rJMMViQAAAAJ&citation_for_view=rJMMViQAAAAJ:Tyk-4Ss8FVUC" style="color:#00308B;">Paper</a> <a href="https://github.com/zhangxin-xd/Dataset-Pruning-TDDS" style="color:#00308B;">Codes</a><br>
+📌 <span style="color:#4B0082;"><strong>[2023.10]</strong></span>  Win National Scholarship for PhD Student!
 </span>
 
 ### 📝Publications

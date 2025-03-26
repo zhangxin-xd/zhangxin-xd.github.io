@@ -34,7 +34,7 @@ Sincere thanks to my collaborators and mentors for their continued support and g
 
 For the full list, please refer to my Google Scholar page: <a href="https://scholar.google.com/citations?user=rJMMViQAAAAJ&hl=zh-CN&oi=ao" style="color:#00308B;">Google Scholar</a>
 
-#### Data-centric Efficiency
+- Data-centric Efficiency
 
 <style>
   .publication-container {
@@ -120,6 +120,7 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
     <strong style="color:#4B0082;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Jie Lei, Qian Du.
   </div>
 </div>
+
 
 #### Image Processing
 

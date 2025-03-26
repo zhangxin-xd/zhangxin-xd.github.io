@@ -16,7 +16,7 @@ My research interests lie in machine learning and computer vision, with a focus 
 
 ### ⚡️News!
 <span style="font-family:Arial; font-size:0.8em;">
-  [2025.03] Received A*STAR Career Development Funding (CDF) award 2024 as PI. Thanks for the support from my collaborators and supervisors. 👏
+  [2025.03] Received A*STAR Career Development Funding (CDF) award 2024 as PI. Thanks for the support from my collaborators and supervisors. 👏 <br>
   [2025.01] Our work "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator" is accepted by ICLR! See you in 🇸🇬 <a href="https://arxiv.org/abs/2408.06927" style="color:#00308B;">Paper</a>  <a href="https://github.com/zhangxin-xd/UFC" style="color:#00308B;">Code</a><br>
   [2024.12] Successfully defended my dissertation and obtained my Ph.D. degree! 🎓 <br>
   [2024.11] Win National Scholarship for PhD Student again! <br>

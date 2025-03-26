@@ -50,7 +50,25 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   }
 </style>
 
+<div class="publication-container">
+  <img src="./images/UFC.png" alt="Publication Image">
+  
+  <div>
+    <span style="color: #00308B; font-weight: bold">[ICLR 2025]</span> Breaking Class Barriers: Efficient Dataset Distillation via Inter-class Feature Compensator.
+ <br>
+    <strong style="color:#4B0082;">Xin Zhang</strong>, Jiawei Du, Ping Liu, Joey Tianyi Zhou.
+  </div>
+</div>
 
+<div class="publication-container">
+  <img src="./images/DWA.png" alt="Publication Image">
+  
+  <div>
+    <span style="color: #00308B; font-weight: bold">[NeurIPS 2024 Spotlight]</span> Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment.
+ <br>
+    Jiawei Du, <strong style="color:#4B0082;">Xin Zhang</strong>, Juncheng Hu, Wenxin Huang, Joey Tianyi Zhou.
+  </div>
+</div>
 
 <div class="publication-container">
   <img src="./images/TDDS.png" alt="Publication Image">
@@ -60,10 +78,6 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
     <strong style="color:#4B0082;">Xin Zhang</strong>, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou.
   </div>
 </div>
-
-
-
-
 
 <div class="publication-container">
   <img src="./images/BPL.png" alt="Publication Image">
@@ -102,8 +116,6 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
     <strong style="color:#4B0082;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Jie Lei, Qian Du.
   </div>
 </div>
-
-
 
 <div class="publication-container">
   <img src="./images/WSLRR.png" alt="Publication Image">

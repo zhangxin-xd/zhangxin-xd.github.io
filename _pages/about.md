@@ -34,7 +34,7 @@ Sincere thanks to my collaborators and mentors for their continued support and g
 
 For the full list, please refer to my Google Scholar page: <a href="https://scholar.google.com/citations?user=rJMMViQAAAAJ&hl=zh-CN&oi=ao" style="color:#00308B;">Google Scholar</a>
 
-<hr style="border: none; border-top: 1px dashed #ccc; margin: 2em 0;" />
+<hr style="border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
 
 **Data-centric Efficiency**
 
@@ -83,7 +83,7 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   </div>
 </div>
 
-<hr style="border: none; border-top: 1px dashed #ccc; margin: 2em 0;" />
+<hr style="border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
 
 **Model-centric Efficiency**
 
@@ -125,7 +125,7 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   </div>
 </div>
 
-<hr style="border: none; border-top: 1px dashed #ccc; margin: 2em 0;" />
+<hr style="border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
 
 **Image Processing**
 

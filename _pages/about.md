@@ -83,7 +83,9 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   </div>
 </div>
 
-#### Model-centric Efficiency
+<hr style="border: none; border-top: 1px dashed #ccc; margin: 2em 0;" />
+
+**Model-centric Efficiency**
 
 <div class="publication-container">
   <img src="./images/BPL.png" alt="Publication Image">
@@ -123,8 +125,9 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   </div>
 </div>
 
+<hr style="border: none; border-top: 1px dashed #ccc; margin: 2em 0;" />
 
-#### Image Processing
+**Image Processing**
 
 <div class="publication-container">
   <img src="./images/WSLRR.png" alt="Publication Image">

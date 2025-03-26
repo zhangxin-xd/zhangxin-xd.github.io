@@ -105,7 +105,6 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   </div>
 </div>
 
-
 <div class="publication-container">
   <img src="./images/CCSG.png" alt="Publication Image">
   
@@ -124,10 +123,7 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   </div>
 </div>
 
-
-
-
-<hr style="border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
+<hr style="clear: both; border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
 
 **Image Processing**
 

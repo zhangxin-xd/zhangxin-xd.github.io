@@ -75,6 +75,15 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 </div>
 
 <div class="publication-container">
+  <img src="./images/EVA.png" alt="Publication Image">
+
+  <div>
+    <span style="color: #00308B; font-weight: bold">[ACM MM 2024 (Oral)]</span> Evolution-aware VAriance (EVA) Coreset Selection for Medical Image Classification. <br>
+    Yuxin Hong, Xiao Zhang, <strong style="color:#4B0082;">Xin Zhang</strong>, Joey Tianyi Zhou.
+  </div>
+</div>
+
+<div class="publication-container">
   <img src="./images/TDDS.png" alt="Publication Image">
   
   <div>

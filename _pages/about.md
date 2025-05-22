@@ -16,6 +16,7 @@ My research interests lie in machine learning and computer vision, with a focus 
   
 ### ⚡️News!
 <span style="font-family:Arial; font-size:0.8em;">
+📌 <span style="color:#4B0082;"><strong>[2025.5]</strong></span> Our work "Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation" is posted online! <a href="https://arxiv.org/abs/2505.14705" style="color:#00308B;">Paper</a><br>
 📌 <span style="color:#4B0082;"><strong>[2025.03]</strong></span> Honored to receive the **2024 A*STAR Career Development Fund (CDF)** award as PI.  
 Sincere thanks to my collaborators and mentors for their continued support and guidance.<br>
 📌 <span style="color:#4B0082;"><strong>[2025.01]</strong></span> Our work "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator" is accepted by ICLR! See you in 🇸🇬 <a href="https://arxiv.org/abs/2408.06927" style="color:#00308B;">Paper</a>  <a href="https://github.com/zhangxin-xd/UFC" style="color:#00308B;">Code</a><br>

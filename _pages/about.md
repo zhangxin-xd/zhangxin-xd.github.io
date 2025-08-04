@@ -16,7 +16,7 @@ My research interests lie in machine learning and computer vision, with a focus 
   
 ### ⚡️News!
 <span style="font-family:Arial; font-size:0.8em;">
-📌 <span style="color:#4B0082;"><strong>[2025.8]</strong></span> Our ICLR work *“Breaking Class Barriers”* was presented at the **Workshop on Tensor Representation for Machine Learning**, organized by the Tensor Learning Team, AIP, RIKEN 🇯🇵. Many thanks to Prof. Qibin Zhao for the kind invitation! <a href="https://tensorworkshop.github.io/RIKENAIP_TRML2025/" style="color:#00308B;">Link</a><br>
+📌 <span style="color:#4B0082;"><strong>[2025.8]</strong></span> Our ICLR work *“Breaking Class Barriers”* was presented at the <a href="https://tensorworkshop.github.io/RIKENAIP_TRML2025/" style="color:#00308B;">Workshop on Tensor Representation for Machine Learning</a>(AIP, RIKEN 🇯🇵). Thanks to Prof. Qibin Zhao for the invitation! <br>
 📌 <span style="color:#4B0082;"><strong>[2025.5]</strong></span> Our work "Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation" is posted online! <a href="https://arxiv.org/abs/2505.14705" style="color:#00308B;">Paper</a><br>
 📌 <span style="color:#4B0082;"><strong>[2025.03]</strong></span> Honored to receive the **2024 A*STAR Career Development Fund (CDF)** award as PI.  
 Sincere thanks to my collaborators and mentors for their continued support and guidance.<a href="https://www.a-star.edu.sg/cfar/news/news/grant-awards/astar-cdf-2024-recipients" style="color:#00308B;">News</a><br> 

@@ -15,6 +15,7 @@ I received my Ph.D. degree in December 2024 from Xidian University, under the su
 My research interests lie in machine learning and computer vision, with a focus on data-centric efficiency, generative AI, and deepfake generation & detection.
   
 ### ⚡️News!
+<div style="max-height:300px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
 <span style="font-family:Arial; font-size:0.8em;">
 📌 <span style="color:#4B0082;"><strong>[2025.8]</strong></span> Our ICLR work *“Breaking Class Barriers”* was presented at the <a href="https://tensorworkshop.github.io/RIKENAIP_TRML2025/" style="color:#00308B;">Workshop on Tensor Representation for Machine Learning</a>(AIP, RIKEN 🇯🇵). Thanks to Prof. Qibin Zhao for the invitation! <br>
 📌 <span style="color:#4B0082;"><strong>[2025.5]</strong></span> Our work "Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation" is posted online! <a href="https://arxiv.org/abs/2505.14705" style="color:#00308B;">Paper</a><br>
@@ -31,6 +32,7 @@ Sincere thanks to my collaborators and mentors for their continued support and g
 📌 <span style="color:#4B0082;"><strong>[2024.2]</strong></span> Our work "Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning" is accepted by **CVPR**! See you in 🇺🇸 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=rJMMViQAAAAJ&citation_for_view=rJMMViQAAAAJ:Tyk-4Ss8FVUC" style="color:#00308B;">Paper</a> <a href="https://github.com/zhangxin-xd/Dataset-Pruning-TDDS" style="color:#00308B;">Codes</a><br>
 📌 <span style="color:#4B0082;"><strong>[2023.10]</strong></span>  Win National Scholarship for PhD Student!
 </span>
+</div>
 
 ### 📝Publications
 

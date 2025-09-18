@@ -17,7 +17,7 @@ My research interests lie in machine learning and computer vision, with a focus 
 ### ⚡️News!
 <div style="max-height:300px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
 <span style="font-family:Arial; font-size:0.8em;">
-📌 <span style="color:#4B0082;"><strong>[2025.5]</strong></span> Our work "Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation" is accepted by NeurIPS 2025! See you in San Diego 🇺🇸.<a href="https://arxiv.org/abs/2505.14705" style="color:#00308B;">Paper</a> <a href="https://github.com/zhangxin-xd/RepBlend">Codes</a><br>
+📌 <span style="color:#4B0082;"><strong>[2025.5]</strong></span> Our work "Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation" is accepted by NeurIPS 2025! See you in San Diego 🇺🇸. <a href="https://arxiv.org/abs/2505.14705" style="color:#00308B;">Paper</a> <a href="https://github.com/zhangxin-xd/RepBlend">Codes</a><br>
 📌 <span style="color:#4B0082;"><strong>[2025.8]</strong></span> Our ICLR work *“Breaking Class Barriers”* was presented at the <a href="https://tensorworkshop.github.io/RIKENAIP_TRML2025/" style="color:#00308B;">Workshop on Tensor Representation for Machine Learning</a>(AIP, RIKEN 🇯🇵). Thanks to Prof. Qibin Zhao for the invitation! <br>
 📌 <span style="color:#4B0082;"><strong>[2025.5]</strong></span> Our work "Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation" is posted online! <a href="https://arxiv.org/abs/2505.14705" style="color:#00308B;">Paper</a><br>
 📌 <span style="color:#4B0082;"><strong>[2025.03]</strong></span> Honored to receive the <strong>2024 A*STAR Career Development Fund (CDF)<strong> award as PI.  

@@ -61,15 +61,7 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   }
 </style>
 
-<div class="publication-container">
-  <img src="./images/Repbelnd.png" alt="Publication Image">
-  
-  <div>
-    <span style="color: #00308B; font-weight: bold">[NeurIPS 2025]</span> Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation.
- <br>
-    <strong style="color:#4B0082;">Xin Zhang</strong>, Ziruo Zhang, Jiawei Du, ZuoZhu Liu, Joey Tianyi Zhou.
-  </div>
-</div>
+
 
 <div class="publication-container">
   <img src="./images/UFC.png" alt="Publication Image">

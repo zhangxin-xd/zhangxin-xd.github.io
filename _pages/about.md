@@ -12,7 +12,7 @@ redirect_from:
 <span style="font-family:Arial; font-size:0.8em;"> 
 I am currently a Research Scientist at CFAR, A\*STAR. Prior to that, I was a visiting student at A\*STAR, working with [<span style="color:#4B0082;"><strong>Prof. Joey Tianyi Zhou</strong></span>](https://joeyzhouty.github.io/index.html) and [<span style="color:#4B0082;"><strong>Dr. Jiawei Du</strong></span>](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en).  
 I received my Ph.D. degree in December 2024 from Xidian University, under the supervision of [<span style="color:#4B0082;"><strong>Prof. Yunsong Li</strong></span>](https://web.xidian.edu.cn/ysli/) and [<span style="color:#4B0082;"><strong>Prof. Weiying Xie</strong></span>](https://web.xidian.edu.cn/wyxie/). Before that, I obtained my Bachelor’s degree in 2019, also from Xidian University.  
-My research interests lie in machine learning and computer vision, with a focus on data-centric efficiency, generative AI, and deepfake generation & detection.
+My research interests lie in machine learning and computer vision, with a focus on data-centric efficiency, generative AI, and deepfake generation & detection.<br>
 
 <span style="color: purple;">
 I am also looking for self-motivated PhD students, research interns, and visiting students. In addition, A*STAR offers a variety of scholarships.

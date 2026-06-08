@@ -22,6 +22,7 @@ I am also looking for self-motivated PhD students, research interns, and visitin
 ### ⚡️News!
 <div style="max-height:300px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
 <span style="font-family:Arial; font-size:0.8em;">
+📌 <b>[2026.6]</b> Our Frontiers Research Topic <i>Towards Trustworthy Visual Foundation Models in the Real World</i>, co-edited with <b>Prof. Joey Tianyi Zhou</b> and <b>Prof. Ismail Ben Ayed</b>, is now open for submissions! <a href="https://www.frontiersin.org/research-topics/82034/towards-trustworthy-visual-foundation-models-in-the-real-world">Link</a><br>
 📌 <span style="color:#4B0082;"><strong>[2026.5]</strong></span> Our work "Visual Latents Know More Than They Say:
 Unsilencing Latent Reasoning in MLLMs" is posted online! <a href="https://arxiv.org/pdf/2605.02735" style="color:#00308B;">Paper</a><br>
 📌 <span style="color:#4B0082;"><strong>[2026.4]</strong></span> Our work "Mitigating Entangled Steering in Large Vision-Language Models for Hallucination Reduction" is posted online! <a href="https://arxiv.org/abs/2604.07914" style="color:#00308B;">Paper</a><br>

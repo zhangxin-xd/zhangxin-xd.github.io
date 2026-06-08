@@ -86,14 +86,14 @@ $c-page-max: 1320px;
   img {
     border-radius: 18px;
     border: 3px solid #fff;
-    box-shadow: 0 8px 24px rgba($c-accent-deep, 0.18),
-                0 0 0 2px $c-accent-tint;
+    // Soft, even drop shadow only — no crisp ring (the previous 2px tint ring
+    // showed as a hard purple line along the avatar's edges).
+    box-shadow: 0 6px 20px rgba($c-accent-deep, 0.14);
     transition: transform 0.25s ease, box-shadow 0.25s ease;
 
     &:hover {
       transform: translateY(-3px) scale(1.01);
-      box-shadow: 0 14px 32px rgba($c-accent-deep, 0.26),
-                  0 0 0 2px $c-accent;
+      box-shadow: 0 12px 28px rgba($c-accent-deep, 0.22);
     }
   }
 }

@@ -66,6 +66,14 @@ a {
   margin: 2.5em 0;
 }
 
+/* --- Wider content area ------------------------------------------------ */
+// Theme default caps the layout at $x-large (1280px); widen it so the page
+// uses more of the screen instead of leaving a large right-hand gutter.
+$c-page-max: 1600px;
+
+#main { max-width: $c-page-max; }
+.masthead__inner-wrap { max-width: $c-page-max; }
+
 /* --- Sidebar author profile ------------------------------------------- */
 .author__avatar {
   img {

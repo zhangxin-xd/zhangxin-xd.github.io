@@ -131,6 +131,13 @@ $c-page-max: 1320px;
 }
 
 .author__urls {
+  // Keep link text a consistent dark colour in all states (the global
+  // a:visited rule was turning already-visited links like Scholar/Github
+  // amber while unvisited ones stayed dark). Only the icons are accent.
+  a,
+  a:visited {
+    color: $c-ink;
+  }
   a:hover {
     color: $c-accent-dark;
   }

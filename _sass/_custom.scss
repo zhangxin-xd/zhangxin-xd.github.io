@@ -74,6 +74,13 @@ $c-page-max: 1440px;
 #main { max-width: $c-page-max; }
 .masthead__inner-wrap { max-width: $c-page-max; }
 
+// The theme reserves a large right gutter on .page (padding-right ~17%) for a
+// right sidebar that this site doesn't use, which makes the content look
+// left-shifted. Trim it so the content sits balanced within the centered #main.
+.page {
+  padding-right: 2.5%;
+}
+
 /* --- Sidebar author profile ------------------------------------------- */
 .author__avatar {
   img {

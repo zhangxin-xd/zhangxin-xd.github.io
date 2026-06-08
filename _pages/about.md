@@ -10,11 +10,11 @@ redirect_from:
 ### 👩🏻‍💻Profile
 
 <span style="font-family:Arial; font-size:0.8em;"> 
-I am currently a Research Scientist at CFAR, A\*STAR. Prior to that, I was a visiting student at A\*STAR, working with [<span style="color:#4B0082;"><strong>Prof. Joey Tianyi Zhou</strong></span>](https://joeyzhouty.github.io/index.html) and [<span style="color:#4B0082;"><strong>Dr. Jiawei Du</strong></span>](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en).  
-I received my Ph.D. degree in December 2024 from Xidian University, under the supervision of [<span style="color:#4B0082;"><strong>Prof. Yunsong Li</strong></span>](https://web.xidian.edu.cn/ysli/) and [<span style="color:#4B0082;"><strong>Prof. Weiying Xie</strong></span>](https://web.xidian.edu.cn/wyxie/). Before that, I obtained my Bachelor’s degree in 2019, also from Xidian University.  
+I am currently a Research Scientist at CFAR, A\*STAR. Prior to that, I was a visiting student at A\*STAR, working with [<span style="color:#92400e;"><strong>Prof. Joey Tianyi Zhou</strong></span>](https://joeyzhouty.github.io/index.html) and [<span style="color:#92400e;"><strong>Dr. Jiawei Du</strong></span>](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en).  
+I received my Ph.D. degree in December 2024 from Xidian University, under the supervision of [<span style="color:#92400e;"><strong>Prof. Yunsong Li</strong></span>](https://web.xidian.edu.cn/ysli/) and [<span style="color:#92400e;"><strong>Prof. Weiying Xie</strong></span>](https://web.xidian.edu.cn/wyxie/). Before that, I obtained my Bachelor’s degree in 2019, also from Xidian University.  
 My research interests lie in machine learning and computer vision, with a focus on data-centric efficiency, generative AI, and deepfake generation & detection.<br>
 
-<span style="font-family: Arial; font-size: 0.8em; color: purple; font-weight: bold;">
+<span style="font-family: Arial; font-size: 0.8em; color: #92400e; font-weight: bold;">
 I am also looking for self-motivated PhD students, research interns, and visiting students. In addition, A*STAR offers a variety of scholarships.
 </span>
 
@@ -45,7 +45,7 @@ I am also looking for self-motivated PhD students, research interns, and visitin
 
 ### 📝Publications
 
-For the full list, please refer to my Google Scholar page: <a href="https://scholar.google.com/citations?user=rJMMViQAAAAJ&hl=zh-CN&oi=ao" style="color:#00308B;">Google Scholar</a>
+For the full list, please refer to my Google Scholar page: <a href="https://scholar.google.com/citations?user=rJMMViQAAAAJ&hl=zh-CN&oi=ao" style="color:#92400e;">Google Scholar</a>
 
 <hr style="clear: both; border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
 
@@ -55,9 +55,9 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   <img src="./images/Repblend.png" alt="Publication Image">
   
   <div>
-    <span style="color: #00308B; font-weight: bold">[NeurIPS 2025]</span> Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation.
+    <span style="color: #92400e; font-weight: bold">[NeurIPS 2025]</span> Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation.
  <br>
-    <strong style="color:#4B0082;">Xin Zhang</strong>, Ziruo Zhang, Jiawei Du, Zuozhu Liu, Joey Tianyi Zhou.
+    <strong style="color:#92400e;">Xin Zhang</strong>, Ziruo Zhang, Jiawei Du, Zuozhu Liu, Joey Tianyi Zhou.
   </div>
 </div>
 
@@ -65,9 +65,9 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   <img src="./images/UFC.png" alt="Publication Image">
   
   <div>
-    <span style="color: #00308B; font-weight: bold">[ICLR 2025]</span> Breaking Class Barriers: Efficient Dataset Distillation via Inter-class Feature Compensator.
+    <span style="color: #92400e; font-weight: bold">[ICLR 2025]</span> Breaking Class Barriers: Efficient Dataset Distillation via Inter-class Feature Compensator.
  <br>
-    <strong style="color:#4B0082;">Xin Zhang</strong>, Jiawei Du, Ping Liu, Joey Tianyi Zhou.
+    <strong style="color:#92400e;">Xin Zhang</strong>, Jiawei Du, Ping Liu, Joey Tianyi Zhou.
   </div>
 </div>
 
@@ -75,9 +75,9 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   <img src="./images/DWA.png" alt="Publication Image">
   
   <div>
-    <span style="color: #00308B; font-weight: bold">[NeurIPS 2024 Spotlight]</span> Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment.
+    <span style="color: #92400e; font-weight: bold">[NeurIPS 2024 Spotlight]</span> Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment.
  <br>
-    Jiawei Du, <strong style="color:#4B0082;">Xin Zhang</strong>, Juncheng Hu, Wenxin Huang, Joey Tianyi Zhou.
+    Jiawei Du, <strong style="color:#92400e;">Xin Zhang</strong>, Juncheng Hu, Wenxin Huang, Joey Tianyi Zhou.
   </div>
 </div>
 
@@ -85,8 +85,8 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   <img src="./images/EVA.png" alt="Publication Image">
 
   <div>
-    <span style="color: #00308B; font-weight: bold">[ACM MM 2024 (Oral)]</span> Evolution-aware VAriance (EVA) Coreset Selection for Medical Image Classification. <br>
-    Yuxin Hong, Xiao Zhang, <strong style="color:#4B0082;">Xin Zhang</strong>, Joey Tianyi Zhou.
+    <span style="color: #92400e; font-weight: bold">[ACM MM 2024 (Oral)]</span> Evolution-aware VAriance (EVA) Coreset Selection for Medical Image Classification. <br>
+    Yuxin Hong, Xiao Zhang, <strong style="color:#92400e;">Xin Zhang</strong>, Joey Tianyi Zhou.
   </div>
 </div>
 
@@ -94,8 +94,8 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   <img src="./images/TDDS.png" alt="Publication Image">
   
   <div>
-    <span style="color: #00308B; font-weight: bold">[CVPR 2024]</span> Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning. <br>
-    <strong style="color:#4B0082;">Xin Zhang</strong>, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou.
+    <span style="color: #92400e; font-weight: bold">[CVPR 2024]</span> Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning. <br>
+    <strong style="color:#92400e;">Xin Zhang</strong>, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou.
   </div>
 </div>
 
@@ -107,8 +107,8 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   <img src="./images/BPL.png" alt="Publication Image">
   
   <div>
-    <span style="color: #00308B; font-weight: bold">[IEEE TNNLS 2023]</span> Block-Wise Partner Learning for Model Compression. <br>
-    <strong style="color:#4B0082;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Jie Lei, Kai Jiang, Leyuan Fang, Qian Du. 
+    <span style="color: #92400e; font-weight: bold">[IEEE TNNLS 2023]</span> Block-Wise Partner Learning for Model Compression. <br>
+    <strong style="color:#92400e;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Jie Lei, Kai Jiang, Leyuan Fang, Qian Du. 
   </div>
 </div>
 
@@ -116,8 +116,8 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   <img src="./images/REAF.png" alt="Publication Image">
   
   <div>
-    <span style="color: #00308B; font-weight: bold">[IEEE TIP 2023]</span> Reaf: Remembering enhancement and entropy-based asymptotic forgetting for filter pruning.<br>
-    <strong style="color:#4B0082;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Kai Jiang, Leyuan Fang. 
+    <span style="color: #92400e; font-weight: bold">[IEEE TIP 2023]</span> Reaf: Remembering enhancement and entropy-based asymptotic forgetting for filter pruning.<br>
+    <strong style="color:#92400e;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Kai Jiang, Leyuan Fang. 
   </div>
 </div>
 
@@ -125,8 +125,8 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   <img src="./images/CCSG.png" alt="Publication Image">
   
   <div>
-    <span style="color: #00308B; font-weight: bold">[IEEE TGRS 2023]</span> Co-compression via superior gene for remote sensing scene classification.<br>
-    Weiying Xie, Xiaoyi Fan, <strong style="color:#4B0082;">Xin Zhang</strong>, Yunsong Li, Min Sheng, Leyuan Fang.
+    <span style="color: #92400e; font-weight: bold">[IEEE TGRS 2023]</span> Co-compression via superior gene for remote sensing scene classification.<br>
+    Weiying Xie, Xiaoyi Fan, <strong style="color:#92400e;">Xin Zhang</strong>, Yunsong Li, Min Sheng, Leyuan Fang.
   </div>
 </div>
 
@@ -134,8 +134,8 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   <img src="./images/LRMF.jpg" alt="Publication Image">
   
   <div>
-    <span style="color: #00308B; font-weight: bold">[IEEE TC 2021]</span> Filter pruning via learned representation median in the frequency domain. <br>
-    <strong style="color:#4B0082;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Jie Lei, Qian Du.
+    <span style="color: #92400e; font-weight: bold">[IEEE TC 2021]</span> Filter pruning via learned representation median in the frequency domain. <br>
+    <strong style="color:#92400e;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Jie Lei, Qian Du.
   </div>
 </div>
 
@@ -147,8 +147,8 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   <img src="./images/WSLRR.png" alt="Publication Image">
   
   <div>
-    <span style="color: #00308B; font-weight: bold">[IEEE TC 2021]</span> Weakly supervised low-rank representation for hyperspectral anomaly detection. <br>
-    Weiying Xie, <strong style="color:#4B0082;">Xin Zhang</strong>, Yunsong Li, Jie Lei, Jiaojiao Li, Qian Du.
+    <span style="color: #92400e; font-weight: bold">[IEEE TC 2021]</span> Weakly supervised low-rank representation for hyperspectral anomaly detection. <br>
+    Weiying Xie, <strong style="color:#92400e;">Xin Zhang</strong>, Yunsong Li, Jie Lei, Jiaojiao Li, Qian Du.
   </div>
 </div>
 
@@ -156,8 +156,8 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   <img src="./images/DBLP.jpg" alt="Publication Image">
   
   <div>
-    <span style="color: #00308B; font-weight: bold">[IEEE Jstar 2020]</span> Background learning based on target suppression constraint for hyperspectral target detection. <br>
-    Weiying Xie, <strong style="color:#4B0082;">Xin Zhang</strong>, Yunsong Li, Keyan Wang, Qian Du.
+    <span style="color: #92400e; font-weight: bold">[IEEE Jstar 2020]</span> Background learning based on target suppression constraint for hyperspectral target detection. <br>
+    Weiying Xie, <strong style="color:#92400e;">Xin Zhang</strong>, Yunsong Li, Keyan Wang, Qian Du.
   </div>
 </div>
 

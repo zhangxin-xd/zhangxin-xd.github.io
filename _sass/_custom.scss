@@ -81,6 +81,12 @@ $c-page-max: 1320px;
   padding-right: 2.5%;
 }
 
+/* --- Hide redundant name labels --------------------------------------- */
+// The page title already shows the name, so hide the masthead site-title link
+// and the sidebar author name (kept in config for the <title> tag / SEO).
+.masthead__menu-item--lg { display: none !important; }
+.author__name { display: none; }
+
 /* --- Sidebar author profile ------------------------------------------- */
 .author__avatar {
   img {

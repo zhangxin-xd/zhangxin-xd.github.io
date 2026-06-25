@@ -22,8 +22,10 @@ I am also looking for self-motivated PhD students, research interns, and visitin
 ### ⚡️ News
 
 <div class="news-feed" markdown="0">
+  <div class="news-item"><span class="news-date">2026.6</span><div class="news-body"><span class="news-pin">📌</span> Our work "Mitigate Modality-Asymmetric Forgetting via Stabilizing Visual Representations in CLIP-Based Class-Incremental Learning" is accepted by <b>ECCV 2026</b>! 🎉</div></div>
   <div class="news-item"><span class="news-date">2026.6</span><div class="news-body"><span class="news-pin">📌</span> Our Frontiers Research Topic <i>Towards Trustworthy Visual Foundation Models in the Real World</i>, co-edited with <b>Prof. Joey Tianyi Zhou</b> and <b>Prof. Ismail Ben Ayed</b>, is now open for submissions! <a href="https://www.frontiersin.org/research-topics/82034/towards-trustworthy-visual-foundation-models-in-the-real-world">Link</a></div></div>
   <div class="news-item"><span class="news-date">2026.5</span><div class="news-body"><span class="news-pin">📌</span> Our work "Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs" is posted online! <a href="https://arxiv.org/pdf/2605.02735">Paper</a></div></div>
+  <div class="news-item"><span class="news-date">2026.5</span><div class="news-body"><span class="news-pin">📌</span> Our work "Draw2Think: Harnessing Geometry Reasoning through Constraint Engine Interaction" is posted online! <a href="https://arxiv.org/abs/2605.20743">Paper</a></div></div>
   <div class="news-item"><span class="news-date">2026.4</span><div class="news-body"><span class="news-pin">📌</span> Our work "Mitigating Entangled Steering in Large Vision-Language Models for Hallucination Reduction" is posted online! <a href="https://arxiv.org/abs/2604.07914">Paper</a></div></div>
   <div class="news-item"><span class="news-date">2026.4</span><div class="news-body"><span class="news-pin">📌</span> Our book "Weakly Supervised Learning-based Hyperspectral Image Anomaly/Target Detection" is posted online! <a href="https://onlinelibrary.wiley.com/doi/10.1002/9781394267880.ch23">Book</a></div></div>
   <div class="news-item"><span class="news-date">2025.10</span><div class="news-body"><span class="news-pin">📌</span> I will be serving as the session chair for <a href="https://whova.com/embedded/session/sa54pNCpHUFy1OTIEiEzceQu5kPuSm3dYlEnqAJdV4o%3D/4938262/?widget=primary">Generative AI: Generative Multimedia IV</a> and <a href="https://whova.com/embedded/session/sa54pNCpHUFy1OTIEiEzceQu5kPuSm3dYlEnqAJdV4o%3D/4938577/?widget=primary">VI</a> in ACMMM 2025. I look forward to meeting you in Dublin 🇮🇪!</div></div>
@@ -46,6 +48,30 @@ I am also looking for self-motivated PhD students, research interns, and visitin
 ### 📝Publications
 
 For the full list, please refer to my Google Scholar page: <a href="https://scholar.google.com/citations?user=rJMMViQAAAAJ&hl=zh-CN&oi=ao" style="color:#92400e;">Google Scholar</a>
+
+<hr style="clear: both; border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
+
+**Vision-Language & Multimodal Learning**
+
+<div class="publication-container">
+  <img src="./images/ModalityForgetting.png" alt="Publication Image">
+  
+  <div>
+    <span style="color: #92400e; font-weight: bold">[ECCV 2026]</span> Mitigate Modality-Asymmetric Forgetting via Stabilizing Visual Representations in CLIP-Based Class-Incremental Learning.
+ <br>
+    Yuanhong Zhang, Yanan Chen, <strong style="color:#92400e;">Xin Zhang</strong>, Zhaoyang Wang, Weizhan Zhang, Muyao Yuan, Hongjin Niu, Lan Ma, Yuan Gao, Joey Tianyi Zhou.
+  </div>
+</div>
+
+<div class="publication-container">
+  <img src="./images/VisualLatents.png" alt="Publication Image">
+  
+  <div>
+    <span style="color: #92400e; font-weight: bold">[arXiv 2026]</span> Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs.
+ <br>
+    <strong style="color:#92400e;">Xin Zhang</strong>, Qiqi Tao, Jiawei Du, Moyun Liu, Joey Tianyi Zhou. <a href="https://arxiv.org/abs/2605.02735" style="color:#92400e;">Paper</a>
+  </div>
+</div>
 
 <hr style="clear: both; border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
 

@@ -22,6 +22,7 @@ I am also looking for self-motivated PhD students, research interns, and visitin
 ### ⚡️ News
 
 <div class="news-feed" markdown="0">
+  <div class="news-item"><span class="news-date">2026.6</span><div class="news-body"><span class="news-pin">📌</span> Our work "Agentic Tool-Augmented Reasoning for Explainable Image Forgery Detection" is accepted by <b>ACM MM 2026</b>! 🎉</div></div>
   <div class="news-item"><span class="news-date">2026.6</span><div class="news-body"><span class="news-pin">📌</span> Our work "Mitigate Modality-Asymmetric Forgetting via Stabilizing Visual Representations in CLIP-Based Class-Incremental Learning" is accepted by <b>ECCV 2026</b>! 🎉</div></div>
   <div class="news-item"><span class="news-date">2026.6</span><div class="news-body"><span class="news-pin">📌</span> Our Frontiers Research Topic <i>Towards Trustworthy Visual Foundation Models in the Real World</i>, co-edited with <b>Prof. Joey Tianyi Zhou</b> and <b>Prof. Ismail Ben Ayed</b>, is now open for submissions! <a href="https://www.frontiersin.org/research-topics/82034/towards-trustworthy-visual-foundation-models-in-the-real-world">Link</a></div></div>
   <div class="news-item"><span class="news-date">2026.5</span><div class="news-body"><span class="news-pin">📌</span> Our work "Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs" is posted online! <a href="https://arxiv.org/pdf/2605.02735">Paper</a></div></div>

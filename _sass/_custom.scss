@@ -1,15 +1,15 @@
 /* ==========================================================================
-   Custom beautification — "Elegant Purple" theme
+   Custom beautification — "Evergreen" theme
    Author homepage of Zhang Xin. Layered on top of Minimal Mistakes.
    ========================================================================== */
 
-// --- Palette ("Bronze" — warm amber) -----------------------------------
-$c-accent       : #d97706; // primary amber (links, buttons)
-$c-accent-deep  : #92400e; // deep bronze, strong text accents / headings
-$c-accent-dark  : #b45309; // hover
-$c-accent-soft  : #fdf8ee; // tinted surface
-$c-accent-tint  : #fdecd2; // card border / chips
-$c-ink          : #2f2a3a; // body text
+// --- Palette ("Evergreen" — deep green) --------------------------------
+$c-accent       : #0e5b40; // primary green (links, buttons)
+$c-accent-deep  : #063d2b; // deep forest, strong text accents / headings
+$c-accent-dark  : #0a4632; // hover
+$c-accent-soft  : #f1f7f4; // tinted surface
+$c-accent-tint  : #c6ddd2; // card border / chips
+$c-ink          : #2a2f2c; // body text
 
 // --- Typography ---------------------------------------------------------
 body {
@@ -175,7 +175,7 @@ $c-page-max: 1320px;
   background: linear-gradient(180deg, $c-accent-soft, #fff);
   box-shadow: inset 0 1px 0 #fff;
 
-  /* slim purple scrollbar */
+  /* slim green scrollbar */
   scrollbar-width: thin;
   scrollbar-color: lighten($c-accent, 20%) transparent;
   &::-webkit-scrollbar { width: 8px; }
@@ -276,5 +276,21 @@ $c-page-max: 1320px;
     flex-direction: column;
     align-items: flex-start;
     img { flex: 0 0 auto; width: auto; height: auto; max-width: 100%; max-height: 220px; }
+  }
+}
+
+/* --- Footer ------------------------------------------------------------ */
+// The theme colours footer social icons with each service's brand colour
+// (GitHub near-black, RSS orange). Pull them into the site's green family so
+// nothing outside the palette shows.
+.page__footer {
+  a, a:visited { color: $c-accent; }
+  a:hover      { color: $c-accent-dark; }
+
+  .social-icons {
+    .fa, .fas, .fab, .fa-rss-square, .ai {
+      color: $c-accent !important;
+    }
+    strong { color: $c-ink; }
   }
 }

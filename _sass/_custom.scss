@@ -88,18 +88,30 @@ $c-page-max: 1320px;
 .author__name { display: none; }
 
 /* --- Sidebar author profile ------------------------------------------- */
+// The theme gives .sidebar `overflow-y: auto` (to scroll a tall sticky
+// sidebar), which clips the avatar's drop shadow flush against the box edge —
+// the shadow only read on the bottom. This sidebar is short (avatar + a few
+// links), so drop the clipping instead of padding the box, which would eat
+// into the avatar's width.
+.sidebar,
+.sidebar.sticky {
+  overflow: visible;
+}
+
 .author__avatar {
   img {
     border-radius: 18px;
     border: 3px solid #fff;
-    // Soft, even drop shadow only — no crisp ring (the previous 2px tint ring
-    // showed as a hard purple line along the avatar's edges).
-    box-shadow: 0 6px 20px rgba($c-accent-deep, 0.14);
+    // Two layers, no crisp ring: an un-offset halo so the shadow is visible on
+    // the left and right as well, plus an offset layer that carries the depth.
+    box-shadow: 0 0 18px rgba($c-accent-deep, 0.20),
+                0 12px 30px rgba($c-accent-deep, 0.32);
     transition: transform 0.25s ease, box-shadow 0.25s ease;
 
     &:hover {
       transform: translateY(-3px) scale(1.01);
-      box-shadow: 0 12px 28px rgba($c-accent-deep, 0.22);
+      box-shadow: 0 0 24px rgba($c-accent-deep, 0.26),
+                  0 18px 42px rgba($c-accent-deep, 0.42);
     }
   }
 }

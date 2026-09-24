@@ -22,6 +22,8 @@ I am also looking for self-motivated PhD students, research interns, and visitin
 ### ⚡️ News
 
 <div class="news-feed" markdown="0">
+  <div class="news-item"><span class="news-date">2026.9</span><div class="news-body"><span class="news-pin">📌</span> Three of our works are accepted by <b>NeurIPS 2026</b>! 🎉 <i>"Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs"</i>, <i>"Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching"</i>, and <i>"On the Feasibility of Identity Manipulation for Diffusion-Based Face Privacy Preservation"</i>. Thanks to all my wonderful collaborators!</div></div>
+  <div class="news-item"><span class="news-date">2026.9</span><div class="news-body"><span class="news-pin">📌</span> Our work "Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs" is accepted by <b>NeurIPS 2026</b>! 🎉 <a href="https://arxiv.org/abs/2605.02735">Paper</a></div></div>
   <div class="news-item"><span class="news-date">2026.9</span><div class="news-body"><span class="news-pin">📌</span> Our Frontiers in Robotics and AI Research Topic <i>Vision-Language-Action Models and World Models for Robotic Manipulation</i>, co-edited with <b>Dr Moyun Liu</b>, <b>Dr Jiawei Du</b> and <b>Dr Mobarak I. Hoque</b>, is now open for submissions! Deadline: 29 March 2027. <a href="https://www.frontiersin.org/research-topics/85292/vision-language-action-models-and-world-models-for-robotic-manipulation">Link</a></div></div>
   <div class="news-item"><span class="news-date">2026.6</span><div class="news-body"><span class="news-pin">📌</span> Our work "Agentic Tool-Augmented Reasoning for Explainable Image Forgery Detection" is accepted by <b>ACM MM 2026</b>! 🎉</div></div>
   <div class="news-item"><span class="news-date">2026.6</span><div class="news-body"><span class="news-pin">📌</span> Our work "Mitigate Modality-Asymmetric Forgetting via Stabilizing Visual Representations in CLIP-Based Class-Incremental Learning" is accepted by <b>ECCV 2026</b>! 🎉</div></div>
@@ -69,7 +71,7 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
   <img src="./images/VisualLatents.png" alt="Publication Image">
   
   <div>
-    <span style="color: #063d2b; font-weight: bold">[arXiv 2026]</span> Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs.
+    <span style="color: #063d2b; font-weight: bold">[NeurIPS 2026]</span> Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs.
  <br>
     <strong style="color:#063d2b;">Xin Zhang</strong>, Qiqi Tao, Jiawei Du, Moyun Liu, Joey Tianyi Zhou. <a href="https://arxiv.org/abs/2605.02735" style="color:#063d2b;">Paper</a>
   </div>

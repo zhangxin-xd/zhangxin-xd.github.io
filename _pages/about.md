@@ -23,10 +23,11 @@ I am also looking for self-motivated PhD students, research interns, and visitin
 
 <div class="news-feed" markdown="0">
   <div class="news-item"><span class="news-date">2026.9</span><div class="news-body"><span class="news-pin">📌</span> Three of our works are accepted by <b>NeurIPS 2026</b>! 🎉 <i>"Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs"</i>, <i>"Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching"</i>, and <i>"On the Feasibility of Identity Manipulation for Diffusion-Based Face Privacy Preservation"</i>. Thanks to all my wonderful collaborators!</div></div>
-  <div class="news-item"><span class="news-date">2026.9</span><div class="news-body"><span class="news-pin">📌</span> Our work "Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs" is accepted by <b>NeurIPS 2026</b>! 🎉 <a href="https://arxiv.org/abs/2605.02735">Paper</a></div></div>
+  <div class="news-item"><span class="news-date">2026.9</span><div class="news-body"><span class="news-pin">📌</span> Our work "Value-Aware KV-Cache Lifecycle Management for Multi-Turn Agentic LLM Serving" is accepted by <b>IEEE HPCC 2026</b> as a regular full paper (17.67% acceptance rate)! 🎉</div></div>
   <div class="news-item"><span class="news-date">2026.9</span><div class="news-body"><span class="news-pin">📌</span> Our Frontiers in Robotics and AI Research Topic <i>Vision-Language-Action Models and World Models for Robotic Manipulation</i>, co-edited with <b>Dr Moyun Liu</b>, <b>Dr Jiawei Du</b> and <b>Dr Mobarak I. Hoque</b>, is now open for submissions! Deadline: 29 March 2027. <a href="https://www.frontiersin.org/research-topics/85292/vision-language-action-models-and-world-models-for-robotic-manipulation">Link</a></div></div>
-  <div class="news-item"><span class="news-date">2026.6</span><div class="news-body"><span class="news-pin">📌</span> Our work "Agentic Tool-Augmented Reasoning for Explainable Image Forgery Detection" is accepted by <b>ACM MM 2026</b>! 🎉</div></div>
+  <div class="news-item"><span class="news-date">2026.6</span><div class="news-body"><span class="news-pin">📌</span> Our work "Agentic Tool-Augmented Reasoning for Explainable Image Forgery Detection" is accepted by <b>ACM MM 2026</b> as an <b>oral</b> presentation! 🎉</div></div>
   <div class="news-item"><span class="news-date">2026.6</span><div class="news-body"><span class="news-pin">📌</span> Our work "Mitigate Modality-Asymmetric Forgetting via Stabilizing Visual Representations in CLIP-Based Class-Incremental Learning" is accepted by <b>ECCV 2026</b>! 🎉</div></div>
+  <div class="news-item"><span class="news-date">2026.6</span><div class="news-body"><span class="news-pin">📌</span> Our work "Draw2Think: Harnessing Geometry Reasoning through Constraint Engine Interaction" is accepted by the <b>ICML 2026 AI4Math Workshop</b>! 🎉 <a href="https://arxiv.org/abs/2605.20743">Paper</a></div></div>
   <div class="news-item"><span class="news-date">2026.6</span><div class="news-body"><span class="news-pin">📌</span> Our Frontiers Research Topic <i>Towards Trustworthy Visual Foundation Models in the Real World</i>, co-edited with <b>Prof. Joey Tianyi Zhou</b> and <b>Prof. Ismail Ben Ayed</b>, is now open for submissions! <a href="https://www.frontiersin.org/research-topics/82034/towards-trustworthy-visual-foundation-models-in-the-real-world">Link</a></div></div>
   <div class="news-item"><span class="news-date">2026.5</span><div class="news-body"><span class="news-pin">📌</span> Our work "Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs" is posted online! <a href="https://arxiv.org/pdf/2605.02735">Paper</a></div></div>
   <div class="news-item"><span class="news-date">2026.5</span><div class="news-body"><span class="news-pin">📌</span> Our work "Draw2Think: Harnessing Geometry Reasoning through Constraint Engine Interaction" is posted online! <a href="https://arxiv.org/abs/2605.20743">Paper</a></div></div>
@@ -55,11 +56,37 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 
 <hr style="clear: both; border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
 
+**Agentic Systems & Reasoning**
+
+<div class="publication-container">
+  <div>
+    <span style="color: #063d2b; font-weight: bold">[IEEE HPCC 2026]</span> Value-Aware KV-Cache Lifecycle Management for Multi-Turn Agentic LLM Serving.
+ <br>
+    <strong style="color:#063d2b;">Xin Zhang</strong>, Jiawei Du, Joey Tianyi Zhou.
+  </div>
+</div>
+
+<div class="publication-container">
+  <div>
+    <span style="color: #063d2b; font-weight: bold">[ACM MM 2026 (Oral)]</span> Agentic Tool-Augmented Reasoning for Explainable Image Forgery Detection.
+ <br>
+    Zhiya Tan, Jing Huang, Changtao Miao, Lin Tan, <strong style="color:#063d2b;">Xin Zhang</strong>, Weiwei Feng, Jianshu Li, Joey Tianyi Zhou.
+  </div>
+</div>
+
+<div class="publication-container">
+  <div>
+    <span style="color: #063d2b; font-weight: bold">[ICML 2026 AI4Math Workshop]</span> Draw2Think: Harnessing Geometry Reasoning through Constraint Engine Interaction.
+ <br>
+    Juncheng Hu, Jiawei Du, <strong style="color:#063d2b;">Xin Zhang</strong>, Joey Tianyi Zhou. <a href="https://arxiv.org/abs/2605.20743" style="color:#063d2b;">Paper</a>
+  </div>
+</div>
+
+<hr style="clear: both; border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
+
 **Vision-Language & Multimodal Learning**
 
 <div class="publication-container">
-  <img src="./images/ModalityForgetting.png" alt="Publication Image">
-  
   <div>
     <span style="color: #063d2b; font-weight: bold">[ECCV 2026]</span> Mitigate Modality-Asymmetric Forgetting via Stabilizing Visual Representations in CLIP-Based Class-Incremental Learning.
  <br>
@@ -68,8 +95,6 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 </div>
 
 <div class="publication-container">
-  <img src="./images/VisualLatents.png" alt="Publication Image">
-  
   <div>
     <span style="color: #063d2b; font-weight: bold">[NeurIPS 2026]</span> Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs.
  <br>
@@ -82,8 +107,14 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 **Data-centric Efficiency**
 
 <div class="publication-container">
-  <img src="./images/Repblend.png" alt="Publication Image">
-  
+  <div>
+    <span style="color: #063d2b; font-weight: bold">[NeurIPS 2026]</span> Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching.
+ <br>
+    Qianxin Xia, Jiawei Du, Yuhan Zhang, <strong style="color:#063d2b;">Xin Zhang</strong>, Xuewan He, Wenbo Jiang, Jielei Wang, Tao Luo, Guoming Lu.
+  </div>
+</div>
+
+<div class="publication-container">
   <div>
     <span style="color: #063d2b; font-weight: bold">[NeurIPS 2025]</span> Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation.
  <br>
@@ -92,8 +123,6 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 </div>
 
 <div class="publication-container">
-  <img src="./images/UFC.png" alt="Publication Image">
-  
   <div>
     <span style="color: #063d2b; font-weight: bold">[ICLR 2025]</span> Breaking Class Barriers: Efficient Dataset Distillation via Inter-class Feature Compensator.
  <br>
@@ -102,8 +131,6 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 </div>
 
 <div class="publication-container">
-  <img src="./images/DWA.png" alt="Publication Image">
-  
   <div>
     <span style="color: #063d2b; font-weight: bold">[NeurIPS 2024 Spotlight]</span> Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment.
  <br>
@@ -112,8 +139,6 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 </div>
 
 <div class="publication-container">
-  <img src="./images/EVA.png" alt="Publication Image">
-
   <div>
     <span style="color: #063d2b; font-weight: bold">[ACM MM 2024 (Oral)]</span> Evolution-aware VAriance (EVA) Coreset Selection for Medical Image Classification. <br>
     Yuxin Hong, Xiao Zhang, <strong style="color:#063d2b;">Xin Zhang</strong>, Joey Tianyi Zhou.
@@ -121,8 +146,6 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 </div>
 
 <div class="publication-container">
-  <img src="./images/TDDS.png" alt="Publication Image">
-  
   <div>
     <span style="color: #063d2b; font-weight: bold">[CVPR 2024]</span> Spanning Training Progress: Temporal Dual-Depth Scoring (TDDS) for Enhanced Dataset Pruning. <br>
     <strong style="color:#063d2b;">Xin Zhang</strong>, Jiawei Du, Yunsong Li, Weiying Xie, Joey Tianyi Zhou.
@@ -131,11 +154,29 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 
 <hr style="clear: both; border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
 
+**Generative AI & Media Forensics**
+
+<div class="publication-container">
+  <div>
+    <span style="color: #063d2b; font-weight: bold">[NeurIPS 2026]</span> On the Feasibility of Identity Manipulation for Diffusion-Based Face Privacy Preservation.
+ <br>
+    Xuemei Jia, Jiawei Du, Jiawei Liu, <strong style="color:#063d2b;">Xin Zhang</strong>, Jun Chen, Zheng Wang, Joey Tianyi Zhou.
+  </div>
+</div>
+
+<div class="publication-container">
+  <div>
+    <span style="color: #063d2b; font-weight: bold">[ECCV 2026 Workshop]</span> Fine-Grained Bias Manipulation of Text-to-Image Models via Counterfactual Data Synthesis.
+ <br>
+    Takuto Onikubo, <strong style="color:#063d2b;">Xin Zhang</strong>, Joey Tianyi Zhou, Shin'ichi Satoh.
+  </div>
+</div>
+
+<hr style="clear: both; border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
+
 **Model-centric Efficiency**
 
 <div class="publication-container">
-  <img src="./images/BPL.png" alt="Publication Image">
-  
   <div>
     <span style="color: #063d2b; font-weight: bold">[IEEE TNNLS 2023]</span> Block-Wise Partner Learning for Model Compression. <br>
     <strong style="color:#063d2b;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Jie Lei, Kai Jiang, Leyuan Fang, Qian Du. 
@@ -143,8 +184,6 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 </div>
 
 <div class="publication-container">
-  <img src="./images/REAF.png" alt="Publication Image">
-  
   <div>
     <span style="color: #063d2b; font-weight: bold">[IEEE TIP 2023]</span> Reaf: Remembering enhancement and entropy-based asymptotic forgetting for filter pruning.<br>
     <strong style="color:#063d2b;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Kai Jiang, Leyuan Fang. 
@@ -152,8 +191,6 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 </div>
 
 <div class="publication-container">
-  <img src="./images/CCSG.png" alt="Publication Image">
-  
   <div>
     <span style="color: #063d2b; font-weight: bold">[IEEE TGRS 2023]</span> Co-compression via superior gene for remote sensing scene classification.<br>
     Weiying Xie, Xiaoyi Fan, <strong style="color:#063d2b;">Xin Zhang</strong>, Yunsong Li, Min Sheng, Leyuan Fang.
@@ -161,8 +198,6 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 </div>
 
 <div class="publication-container">
-  <img src="./images/LRMF.jpg" alt="Publication Image">
-  
   <div>
     <span style="color: #063d2b; font-weight: bold">[IEEE TC 2021]</span> Filter pruning via learned representation median in the frequency domain. <br>
     <strong style="color:#063d2b;">Xin Zhang</strong>, Weiying Xie, Yunsong Li, Jie Lei, Qian Du.
@@ -171,11 +206,29 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 
 <hr style="clear: both; border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
 
+**Preprints & Under Review**
+
+<div class="publication-container">
+  <div>
+    <span style="color: #063d2b; font-weight: bold">[Preprint]</span> SkillGLoW: Procedural-Family Skill Consolidation for Self-Improving Agents on Long-Horizon Task Streams.
+ <br>
+    Ao Yan, <strong style="color:#063d2b;">Xin Zhang</strong>, Jiawei Du, Joey Tianyi Zhou. <a href="https://arxiv.org/abs/2609.02217" style="color:#063d2b;">Paper</a>
+  </div>
+</div>
+
+<div class="publication-container">
+  <div>
+    <span style="color: #063d2b; font-weight: bold">[Preprint]</span> Mitigating Entangled Steering in Large Vision-Language Models for Hallucination Reduction.
+ <br>
+    Yuanhong Zhang, Zhaoyang Wang, <strong style="color:#063d2b;">Xin Zhang</strong>, Weizhan Zhang, Sha Gong, Yuan Gao, Joey Tianyi Zhou. <a href="https://arxiv.org/abs/2604.07914" style="color:#063d2b;">Paper</a>
+  </div>
+</div>
+
+<hr style="clear: both; border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
+
 **Image Processing**
 
 <div class="publication-container">
-  <img src="./images/WSLRR.png" alt="Publication Image">
-  
   <div>
     <span style="color: #063d2b; font-weight: bold">[IEEE TC 2021]</span> Weakly supervised low-rank representation for hyperspectral anomaly detection. <br>
     Weiying Xie, <strong style="color:#063d2b;">Xin Zhang</strong>, Yunsong Li, Jie Lei, Jiaojiao Li, Qian Du.
@@ -183,8 +236,6 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 </div>
 
 <div class="publication-container">
-  <img src="./images/DBLP.jpg" alt="Publication Image">
-  
   <div>
     <span style="color: #063d2b; font-weight: bold">[IEEE Jstar 2020]</span> Background learning based on target suppression constraint for hyperspectral target detection. <br>
     Weiying Xie, <strong style="color:#063d2b;">Xin Zhang</strong>, Yunsong Li, Keyan Wang, Qian Du.

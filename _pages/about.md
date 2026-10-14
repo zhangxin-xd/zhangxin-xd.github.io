@@ -206,7 +206,7 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 
 <hr style="clear: both; border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
 
-**Preprints & Under Review**
+**Preprints**
 
 <div class="publication-container">
   <div>

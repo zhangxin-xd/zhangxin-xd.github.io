@@ -22,6 +22,7 @@ I am also looking for self-motivated PhD students, research interns, and visitin
 ### ⚡️ News
 
 <div class="news-feed" markdown="0">
+  <div class="news-item"><span class="news-date">2026.11</span><div class="news-body"><span class="news-pin">📌</span> Our work "Value-Aware KV-Cache Lifecycle Management for Multi-Turn Agentic LLM Serving" received the <b>IEEE Congress Best Paper Award</b> at the 2026 IEEE Hyper Intelligence Congress (HPCC/DSS/SmartCity/DependSys/Embodied AI/ICESS), Luoyang, China! 🏆</div></div>
   <div class="news-item"><span class="news-date">2026.9</span><div class="news-body"><span class="news-pin">📌</span> Three of our works are accepted by <b>NeurIPS 2026</b>! 🎉 <i>"Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs"</i>, <i>"Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching"</i>, and <i>"On the Feasibility of Identity Manipulation for Diffusion-Based Face Privacy Preservation"</i>. Thanks to all my wonderful collaborators!</div></div>
   <div class="news-item"><span class="news-date">2026.9</span><div class="news-body"><span class="news-pin">📌</span> Our work "Value-Aware KV-Cache Lifecycle Management for Multi-Turn Agentic LLM Serving" is accepted by <b>IEEE HPCC 2026</b> as a regular full paper (17.67% acceptance rate)! 🎉</div></div>
   <div class="news-item"><span class="news-date">2026.9</span><div class="news-body"><span class="news-pin">📌</span> Our Frontiers in Robotics and AI Research Topic <i>Vision-Language-Action Models and World Models for Robotic Manipulation</i>, co-edited with <b>Dr Moyun Liu</b>, <b>Dr Jiawei Du</b> and <b>Dr Mobarak I. Hoque</b>, is now open for submissions! Deadline: 29 March 2027. <a href="https://www.frontiersin.org/research-topics/85292/vision-language-action-models-and-world-models-for-robotic-manipulation">Link</a></div></div>
@@ -60,7 +61,7 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 
 <div class="publication-container">
   <div>
-    <span style="color: #063d2b; font-weight: bold">[IEEE HPCC 2026]</span> Value-Aware KV-Cache Lifecycle Management for Multi-Turn Agentic LLM Serving.
+    <span style="color: #063d2b; font-weight: bold">[IEEE HPCC 2026]</span> <span style="color: #c0392b; font-weight: bold">🏆 Best Paper Award</span> Value-Aware KV-Cache Lifecycle Management for Multi-Turn Agentic LLM Serving.
  <br>
     <strong style="color:#063d2b;">Xin Zhang</strong>, Jiawei Du, Joey Tianyi Zhou.
   </div>

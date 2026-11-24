@@ -22,6 +22,7 @@ I am also looking for self-motivated PhD students, research interns, and visitin
 ### ⚡️ News
 
 <div class="news-feed" markdown="0">
+  <div class="news-item"><span class="news-date">2026.11</span><div class="news-body"><span class="news-pin">📌</span> Our work "More Than Picturing the Future: Motion-Oriented Latent Reasoning for Generalizable Robot Manipulation" is posted online! <a href="https://arxiv.org/abs/2611.29339">Paper</a></div></div>
   <div class="news-item"><span class="news-date">2026.11</span><div class="news-body"><span class="news-pin">📌</span> Two of our works on dataset distillation are accepted! 🎉 <i>"Matryoshka Dataset Distillation: You Only Distill Once"</i> by <b>KDD 2027</b> (33rd SIGKDD), and <i>"Decoupled Residual Optimization for Dataset Distillation"</i> by <b>IEEE TMM</b>. Congrats to Haozhi!</div></div>
   <div class="news-item"><span class="news-date">2026.11</span><div class="news-body"><span class="news-pin">📌</span> Our work "Value-Aware KV-Cache Lifecycle Management for Multi-Turn Agentic LLM Serving" received the <b>IEEE Congress Best Paper Award</b> at the 2026 IEEE Hyper Intelligence Congress (HPCC/DSS/SmartCity/DependSys/Embodied AI/ICESS), Luoyang, China! 🏆</div></div>
   <div class="news-item"><span class="news-date">2026.9</span><div class="news-body"><span class="news-pin">📌</span> Three of our works are accepted by <b>NeurIPS 2026</b>! 🎉 <i>"Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs"</i>, <i>"Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching"</i>, and <i>"On the Feasibility of Identity Manipulation for Diffusion-Based Face Privacy Preservation"</i>. Thanks to all my wonderful collaborators!</div></div>
@@ -209,6 +210,14 @@ For the full list, please refer to my Google Scholar page: <a href="https://scho
 <hr style="clear: both; border: none; border-top: 2px dashed #bbb; margin: 2.5em 0;" />
 
 **Preprints**
+
+<div class="publication-container">
+  <div>
+    <span style="color: #063d2b; font-weight: bold">[Preprint]</span> More Than Picturing the Future: Motion-Oriented Latent Reasoning for Generalizable Robot Manipulation.
+ <br>
+    <strong style="color:#063d2b;">Xin Zhang</strong>, Yushuo Hou, Anqi Zhao, Moyun Liu, Xingwei Zhao, Bo Tao, Jiawei Du, Joey Tianyi Zhou. <a href="https://arxiv.org/abs/2611.29339" style="color:#063d2b;">Paper</a>
+  </div>
+</div>
 
 <div class="publication-container">
   <div>
